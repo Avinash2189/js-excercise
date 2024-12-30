@@ -28,7 +28,7 @@
     
     const heros = ["shaktiman", "naagraj", "doga"];
     let myObj = {
-        name: "hitesh",
+        name: "Avinash",
         age: 22,
     }
     
